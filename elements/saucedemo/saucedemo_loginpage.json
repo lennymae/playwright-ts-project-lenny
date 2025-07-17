@@ -1,0 +1,6 @@
+{
+  "usernameInput": "input[name=\"user-name\"]",
+  "passwordInput": "input[name=\"password\"]",
+  "loginButton": "input[type=\"submit\"]",
+  "appLogo": "div.app_logo"
+}
